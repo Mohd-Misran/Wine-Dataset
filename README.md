@@ -27,7 +27,6 @@ The different attributes are floating values which are based on chemical tests o
 11. alcohol
 12. quality
 
-*Targets*:
 > The two targets have been explicitly created.
 * 'type' column contains binary values 0 and 1 denoting red wine and white wine, respectively.
 * 'quality_label' contains object values denoting the quality of the wine as:
