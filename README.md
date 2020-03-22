@@ -33,3 +33,12 @@ The different attributes are floating values which are based on chemical tests o
   * low if quality is less than or equal to 5
   * medium if quality is between 6 and 7
   * high if quality is greater than 7
+  
+**Instructions to follow while going through the notebooks:**
+1. Download the latest version of python. [Click here to download Python!](https://www.python.org/downloads/)
+2. Download Anaconda [Click here!](https://www.anaconda.com/distribution/)
+> Libraries included in Anaconda
+- - - -
+![Libraries included in Anaconda](https://www.anaconda.com/wp-content/uploads/2018/11/distro-01-1.png)
+> **NOTE:** If you already have the above installed, you're good to go!
+3. 
