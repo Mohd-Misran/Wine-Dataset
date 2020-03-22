@@ -41,6 +41,7 @@ The different attributes are floating values which are based on chemical tests o
 > Libraries included in Anaconda
 - - - -
 ![Libraries included in Anaconda](https://www.anaconda.com/wp-content/uploads/2018/11/distro-01-1.png)
+
 3. Download Git. [Click here!](https://git-scm.com/downloads)
 > **NOTE:** If you already have the above installed, you're good to go!
 4. Download the .ipynb files on your system. You can download the files by clicking on the ***Download or clone*** button, then copying the link and pasting the copied link in your terminal as follows:
