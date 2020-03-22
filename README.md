@@ -45,9 +45,10 @@ The different attributes are floating values which are based on chemical tests o
 3. Download Git. [Click here!](https://git-scm.com/downloads)
 > **NOTE:** If you already have the above installed, you're good to go!
 4. Download the .ipynb files on your system. You can download the files by clicking on the ***Download or clone*** button, then copying the link and pasting the copied link in your terminal as follows:
-> git clone <copied link>
+> git clone (copied link)
  
 The files be downloaded in the path you have specified.
+
 5. Since I have written the code on Google Colab, you can upload it from your system and execute it on Google Colab in the following order:
     * The 'Wine_Dataset_(Visualization).ipynb' notebook has the different visualizations to understand the data.
     * The 'Wine_Type_(Logistic_Regression_2_Features).ipynb' notebook has the raw code as well as sklearn's Logistic Regression model to predict the type of wine.
