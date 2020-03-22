@@ -55,3 +55,16 @@ The different attributes are floating values which are based on chemical tests o
 Training Accuracy | Validation Accuarcy
 ----------------- | -------------------
 75.33%            | 75.62%
+
+* Accuracy to predict type of wine using Logistic Regression (sklearn's linear model) is
+
+Training Accuracy | Validation Accuarcy
+----------------- | -------------------
+95.57%            | 94.15%
+
+* Accuracy to predict quality of wine using Neural Networks (raw code) is
+
+Training Accuracy | Validation Accuarcy
+----------------- | -------------------
+96.85%            | 96.61%
+
