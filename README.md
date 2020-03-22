@@ -2,6 +2,7 @@
 Capstone - 1 (MLFA)
 
 **Introduction**
+
 Wine is an alcoholic beverage made from fermented grapes. It will be very interesting to analyse the chemical attributes of wine and understand their relationship with the types of wine and also the quality of it.
 
 In this project, there will be two predictions:
@@ -47,3 +48,10 @@ The different attributes are floating values which are based on chemical tests o
     * The 'Wine_Type_(Logistic_Regression_2_Features).ipynb' notebook has the raw code as well as sklearn's Logistic Regression model to predict the type of wine.
     * The 'Wine_Quality_(Neural_Networks).ipynb' notebook has the raw code to implement neural networks for predicting the quality label of the wine.
 > **NOTE:** In the first notebook, I am saving the combined dataset (red wine and white wine) on my drive. To do that, you need to mount your drive onto colab and after the authentication has been completed, you can make a copy of it on your drive and reuse it in other notebooks. For reusing it, you need authentication again. The code as well as documentation for that has been explicitly mentioned in the notebook.
+
+**Remarks**
+* Accuracy to predict type of wine using Logistic Regression (raw code) is
+
+Training Accuracy | Validation Accuarcy
+----------------- | -------------------
+75.33%            | 75.62%
