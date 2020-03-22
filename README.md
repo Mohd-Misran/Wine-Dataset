@@ -41,4 +41,9 @@ The different attributes are floating values which are based on chemical tests o
 - - - -
 ![Libraries included in Anaconda](https://www.anaconda.com/wp-content/uploads/2018/11/distro-01-1.png)
 > **NOTE:** If you already have the above installed, you're good to go!
-3. 
+3. Download the .ipynb files on your system
+4. Since I have written the code on Google Colab, you can upload it and execute it on Google Colab in the following order:
+    * The 'Wine_Dataset_(Visualization).ipynb' notebook has the different visualizations to understand the data.
+    * The 'Wine_Type_(Logistic_Regression_2_Features).ipynb' notebook has the raw code as well as sklearn's Logistic Regression model to predict the type of wine.
+    * The 'Wine_Quality_(Neural_Networks).ipynb' notebook has the raw code to implement neural networks for predicting the quality label of the wine.
+> **NOTE:** In the first notebook, I am saving the combined dataset (red wine and white wine) on my drive. To do that, you need to mount your drive onto colab and after the authentication has been completed, you can make a copy of it on your drive and reuse it in other notebooks. For reusing it, you need authentication again. The code as well as documentation for that has been explicitly mentioned in the notebook.
